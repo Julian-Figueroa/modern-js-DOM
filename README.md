@@ -1,1 +1,1 @@
-Basic of the Dom for VAnilla JavaScript
+Basic of the Dom for Vanilla JavaScript
